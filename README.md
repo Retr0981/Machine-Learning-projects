@@ -19,9 +19,9 @@ Ensure you have the following libraries installed:
 - `pandas`
 - `matplotlib`
 - `scikit-learn`
-- `seaborn`
+
 
 You can install these libraries using `pip`:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn seaborn
+pip install numpy pandas matplotlib scikit-learn 
