@@ -11,7 +11,7 @@ This repository contains two data analysis and machine learning projects: predic
 
 
 
-- **Notebook:** [Bikes Regression Analysis](notebooks/bikes_regression.ipynb)
+
 
 ### 2. Classifying Cosmic Rays 🌌
 - **Objective:** Distinguish between gamma rays and hadrons using machine learning.
@@ -20,7 +20,7 @@ This repository contains two data analysis and machine learning projects: predic
 
 
 
-- **Notebook:** [MAGIC Data Classification](notebooks/MAGIC_DATA_LESSON.ipynb)
+
 
 ## Installation
 
