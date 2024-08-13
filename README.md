@@ -23,7 +23,11 @@ Welcome to my data analysis and machine learning projects repository. This repos
 
 ## Overview
 
-This project aims to predict bike rental demand in Seoul based on a variety of environmental factors. Using machine learning regression models, the project transforms raw data into valuable insights, aiding urban transportation planning and decision-making.
+This project aims to predict bike rental demand in Seoul based on various environmental factors. The project uses machine learning regression models to transform raw data into valuable insights, aiding urban transportation planning and decision-making.
 
-## Project Structure
+## Dataset
+
+- **Source:** [Seoul Bike Sharing Demand Dataset](http://data.seoul.go.kr/)
+- **Description:** The dataset includes various features that impact bike rental demand, such as temperature, humidity, wind speed, visibility, and more.
+
 
